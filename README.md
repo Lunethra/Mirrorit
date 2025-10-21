@@ -20,7 +20,8 @@ A help doc is in the tool but the main documentaion is here:
 (the tool doc is accessed using "mirrorit --help" or "mirrorit -h")  
 
 Mirroring can be done in multiple ways:  
-  -
+  | Different ways to mirror texts |  
+  |---|
   1.mirroring the **whole** text. (--mode w)  
   2.mirroring the **lines** of the text (--mode l)  
   3.mirroring every word of the text without changing the index of words (--mode t)  
@@ -79,4 +80,5 @@ To resolve issues and make suggestions, please visit the project's GitHub page.
 ## License
 
 This project uses [MIT License](https://github.com/Lunethra/Mirrorit/blob/main/LICENSE).
+
 
