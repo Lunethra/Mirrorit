@@ -22,10 +22,10 @@ A help doc is in the tool but the main documentaion is here:
 Mirroring can be done in multiple ways:  
   | Different ways to mirror texts |  
   |---|
-  1.mirroring the **whole** text. (--mode w)  
-  2.mirroring the **lines** of the text (--mode l)  
-  3.mirroring every word of the text without changing the index of words (--mode t)  
-  4.mirroring every word of the text without changing the index of words, split words between symbols and spaces. (--mode k)
+  1.Mirroring the **whole** text. (--mode w)  
+  2.Mirroring the **lines** of the text (--mode l)  
+  3.Mirroring every word of the text without changing the index of words (--mode t)  
+  4.Mirroring every word of the text without changing the index of words, split words between symbols and spaces. (--mode k)
 
 Working with files also has multiple ways:
   | Different modes of working with files |
@@ -80,5 +80,6 @@ To resolve issues and make suggestions, please visit the project's GitHub page.
 ## License
 
 This project uses [MIT License](https://github.com/Lunethra/Mirrorit/blob/main/LICENSE).
+
 
 
